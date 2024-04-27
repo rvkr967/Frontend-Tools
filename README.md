@@ -9,6 +9,8 @@ Contributions are appreciated please follow [this](https://github.com/AhmedHamed
 - [Media](https://github.com/AhmedHamedd2017/Frontend-Tools/edit/main/README.md#media)
 - [SVGs](https://github.com/AhmedHamedd2017/Frontend-Tools/edit/main/README.md#svgs)
 - [Backgrounds](https://github.com/AhmedHamedd2017/Frontend-Tools/edit/main/README.md#backgrounds)
+- [ReactJS](https://github.com/AhmedHamedd2017/Frontend-Tools/edit/main/README.md#reactjs)
+- [Testing](https://github.com/AhmedHamedd2017/Frontend-Tools/edit/main/README.md#testing)
 
 ## Inspiration
 - [calltoinspiration.com](https://calltoinspiration.com/) — Get inspirations to commonly used web parts — (Free)
@@ -18,11 +20,25 @@ Contributions are appreciated please follow [this](https://github.com/AhmedHamed
 - [lottiefiles.com](https://lottiefiles.com/) — Animated lottie files — (Free/Premium)
 - [freepik.com](https://www.freepik.com/) — High-quality photos, videos, vectors and more — (Free/Premium)
 - [craftwork.design](https://craftwork.design/) — UX/UI kits, illustrations, mockups, fonts and more — (Free/Premium)
+- [React Icons](https://react-icons.github.io/react-icons/) - Well-organized toolbox, offering many icons from popular libraries - (Free)
 
 ## SVGs
 - [shapedivider.app](https://www.shapedivider.app/) — SVG section dividers — (Free)
 - [blobmaker.app](https://www.blobmaker.app/) — Random SVG items — (Free)
 
 ## Backgrounds
-- [haikei.app](https://haikei.app/) — Create backgrounds that can be exported as .png and/or .svg — (Free)
-- [webgradients.com](https://webgradients.com/) — Create web gradients css copy ready — (Free) 
+- [haikei.app](https://haikei.app/) — Create backgrounds that can be exported as .png and/or .svg  
+- [webgradients.com](https://webgradients.com/) — Create web gradients css copy ready — (Free)
+
+## ReactJS
+- [SWR](https://swr.vercel.app/) - React Hooks for Data Fetching — (Free)
+- [Bit](https://bit.dev/) - Bit is the simplest way to build composable software - (Free)
+- [React Window](https://react-window.vercel.app/) - React window works by only rendering part of a large dataset - (Free)
+- [Loadable Components](https://loadable-components.com/) - Split your react app into smaller chunks, loading them when needed - (Free)
+- [Vite](https://vitejs.dev/) - Setting up a new React project with Vite is incredibly fast and simple - (Free)
+- [Zustand](https://zustand-demo.pmnd.rs/) - A small, fast, and scalable bearbones state management solution - (Free)
+- [React Helmet](https://github.com/nfl/react-helmet) - React component to manage all of your changes to the document head - (Free)
+- [Next.js](https://nextjs.org/) - The React Framework for the Web which simplifies the development process - (Free)
+
+## Testing
+- [Testing Library](https://testing-library.com/) - Simple and complete testing utilities that encourage good testing practices - (Free)
