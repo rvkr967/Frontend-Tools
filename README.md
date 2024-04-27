@@ -11,6 +11,7 @@ Contributions are appreciated please follow [this](https://github.com/AhmedHamed
 - [Backgrounds](https://github.com/AhmedHamedd2017/Frontend-Tools/edit/main/README.md#backgrounds)
 - [ReactJS](https://github.com/AhmedHamedd2017/Frontend-Tools/edit/main/README.md#reactjs)
 - [Testing](https://github.com/AhmedHamedd2017/Frontend-Tools/edit/main/README.md#testing)
+- [UIComponents](https://github.com/AhmedHamedd2017/Frontend-Tools/edit/main/README.md#uicomponents)
 
 ## Inspiration
 - [calltoinspiration.com](https://calltoinspiration.com/) — Get inspirations to commonly used web parts — (Free)
@@ -32,13 +33,13 @@ Contributions are appreciated please follow [this](https://github.com/AhmedHamed
 
 ## ReactJS
 - [SWR](https://swr.vercel.app/) - React Hooks for Data Fetching — (Free)
-- [Bit](https://bit.dev/) - Bit is the simplest way to build composable software - (Free)
-- [React Window](https://react-window.vercel.app/) - React window works by only rendering part of a large dataset - (Free)
+- [React Window](https://react-window.vercel.app/) - React window works by only rendering part of a large dataset by virtualizing data - (Free)
 - [Loadable Components](https://loadable-components.com/) - Split your react app into smaller chunks, loading them when needed - (Free)
 - [Vite](https://vitejs.dev/) - Setting up a new React project with Vite is incredibly fast and simple - (Free)
-- [Zustand](https://zustand-demo.pmnd.rs/) - A small, fast, and scalable bearbones state management solution - (Free)
 - [React Helmet](https://github.com/nfl/react-helmet) - React component to manage all of your changes to the document head - (Free)
-- [Next.js](https://nextjs.org/) - The React Framework for the Web which simplifies the development process - (Free)
 
 ## Testing
 - [Testing Library](https://testing-library.com/) - Simple and complete testing utilities that encourage good testing practices - (Free)
+
+## UIComponents
+- [Bit](https://bit.dev/) - Bit is the simplest way to build composable software - (Free)
